@@ -1,8 +1,8 @@
 # Famous Last Words at 1 Percent
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
-[![prize $2 · 8 places](https://img.shields.io/badge/prize-%242%20%C2%B7%208%20places-green)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
-[![deadline 26 Nov 2026](https://img.shields.io/badge/deadline-26%20Nov%202026-orange)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
+[![make.fun · u-agentfid001-famous-last-words-at-1-percent-63e2b0b4](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
+[![rank](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/e0426685-cloud/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4-entry/rank.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
+[![reward](https://make.fun/badge/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4/e0426685-cloud/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4-entry/reward.svg)](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-famous-last-words-at-1-percent-63e2b0b4)
 
 A [make.fun](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4) bounty entry: the funniest possible last words a phone would say when its battery hits 1 percent — one line, at most 199 characters, judged head-to-head by a judge model.
 
